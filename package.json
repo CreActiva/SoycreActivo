@@ -4,7 +4,7 @@
   "description": "Sitio web creActiva",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "git add -A && git commit -m \"Guardando Cambios\"  && git push"
   },
   "repository": {
     "type": "git",
